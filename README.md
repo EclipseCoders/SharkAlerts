@@ -1,5 +1,5 @@
 # SharkAlerts
-Stay updated on Shark Sightings with SharkAlerts via SMS, powered by Twilio! Developed for Shark Hacks 2 by EclipseCoders, lead by Anson Wong.
+Stay updated on Shark Sightings with SharkAlerts via SMS, powered by Twilio! Developed for Shark Hacks 4 by EclipseCoders, lead by Anson Wong.
 
 ## Inspiration
 To us, sharks have always been fascinating and beautiful creatures whose portrayal has been negatively skewed by media, and while it is true that they are disproportionately feared in relation to how many fatalities they cause every year, it is still safer for both humans and sharks to avoid contact with each other if possible. Our team frequents beaches during the summer, and although marine creatures are not the main safety concern for us, this is definitely not the case for tourists and residents of waters that sharks frequent. Thus, we were inspired to create an application that allows users to stay informed of shark sightings to avoid the risk of running into one while doing any recreational activities in bodies of waters that sharks frequent.
